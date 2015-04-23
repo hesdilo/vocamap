@@ -1,0 +1,2 @@
+# 
+create table simplest (word varchar[64] primary key, meaning varchar[64])

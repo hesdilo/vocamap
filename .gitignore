@@ -1,2 +1,8 @@
+# folders
+vocab/
+
 # special files
 .DS_Store
+simplest
+vocabmap.db
+*.pyc
