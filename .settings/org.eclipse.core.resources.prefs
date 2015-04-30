@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+encoding//server/vocabmap.py=utf-8
 encoding//tools/config.py=utf-8
 encoding//tools/db_handler.py=utf-8
 encoding//tools/similar.py=utf-8
+encoding//vocab/pages.py=utf-8

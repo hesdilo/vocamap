@@ -1,5 +1,6 @@
 # folders
 vocab/
+server/venv/
 
 # special files
 .DS_Store
