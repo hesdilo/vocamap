@@ -1,2 +1,4 @@
-# 
-create table simplest (word varchar[64] primary key, meaning varchar[64])
+# A brief definition.
+create table simplest (word varchar[64] primary key, annotate varchar[64])
+# Index of similarity which a word is spelled.
+create table similar (word1 varchar[64], word2 varchar[64], similarity interger)
